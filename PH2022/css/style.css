@@ -146,8 +146,8 @@ table {
 .content iframe{
     display: block;
     margin: 0 auto;
-    width: 900px;
-    height: 600px;
+    width: 700px;
+    height: 400px;
     margin-top: 70px;
     margin-bottom: 90px;
 }
@@ -285,8 +285,8 @@ table {
     .content iframe{
         display: block;
         margin: 0 auto;
-        width: 90%;
-        height: 600px;
+        width: 80%;
+        height: 400px;
         margin-top: 20px;
         margin-bottom: 90px;
     }
